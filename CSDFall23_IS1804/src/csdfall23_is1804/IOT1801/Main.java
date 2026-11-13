@@ -24,7 +24,8 @@ public class Main {
         lt.addHead(1);
         lt.addHead(1);
         lt.addHead(1);
-
+lt.addHead(1);
+lt.addHead(10);
         lt.addTail(6);
         lt.addTail(70);
         System.out.println("\nDS la");
